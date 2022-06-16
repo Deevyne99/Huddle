@@ -12,7 +12,7 @@ body {
 }
 
 header{
-    background-image: url('/images/bg-hero-desktop.svg');
+    background-image: url('./images/bg-hero-desktop.svg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -214,7 +214,7 @@ font-family: 'Open Sans', sans-serif;
 }
 @media screen and (max-width:1024px){
 header {
-        background-image: url('/images/bg-hero-desktop.svg');
+        background-image: url('./images/bg-hero-desktop.svg');
         background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -254,7 +254,7 @@ header {
 }
 @media screen and (max-width:414px){
 header {
-        background-image: url('/images/bg-hero-mobile.svg');
+        background-image: url('./images/bg-hero-mobile.svg');
         background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -482,7 +482,7 @@ body{
     overflow-x: hidden;
 }
     header {
-        background-image: url('/images/bg-hero-mobile.svg');
+        background-image: url('./images/bg-hero-mobile.svg');
         background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
