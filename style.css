@@ -262,7 +262,7 @@ header {
         background-color: hsl(193, 100%, 96%);
         width: 414px;
         margin: 0 auto;
-        margin-bottom: 380px;
+        margin-bottom:430px;
     }
         nav {
             width: 414px;
@@ -490,7 +490,7 @@ body{
         background-color: hsl(193, 100%, 96%);
         width: 375px;
         margin: 0 auto;
-        margin-bottom: 380px;
+        margin-bottom: 430px;
     }
 nav {
     width: 375px;
@@ -517,6 +517,7 @@ section {
     padding: 40px 20px;
     align-items: center;
     width: 375px;
+    
 }
 section div {
     width: 375px;
@@ -565,6 +566,7 @@ section div h1 {
     align-items: center;
     gap: 40px;
     width :375px;
+    margin-top:300px
     /* margin-bottom: 20px; */
 }
 .container-content {
